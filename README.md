@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hey!
+📜 Am Rio, a 15 year old fullstack web developer!
 
-<!--
-**RioTheDev/RioTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I know the following frameworks:
+- NodeJS
+- Express
+- React
+- NextJS
+- TalwindCSS
+- Discord.js
 
-Here are some ideas to get you started:
+And I know these languages(Ranked by how well i know them):
+- Javascript
+- Typescript
+- HTML
+- CSS
+- Java
+- Python
+- Lua
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also here are my stats!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)](https://github.com/anuraghazra/github-readme-stats)
