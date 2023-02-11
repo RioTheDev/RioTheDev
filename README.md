@@ -20,4 +20,5 @@ And I know these languages(Ranked by how well i know them):
 - C#
 
 Also here are my stats!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)]
