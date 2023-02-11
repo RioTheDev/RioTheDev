@@ -21,4 +21,4 @@ And I know these languages(Ranked by how well i know them):
 
 Also here are my stats!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)
