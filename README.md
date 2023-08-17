@@ -8,6 +8,7 @@ Currently I know the following frameworks:
 - NextJS
 - TalwindCSS
 - Discord.js
+- NestJS
 
 And I know these languages(Ranked by how well i know them):
 - Javascript
