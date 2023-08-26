@@ -1,5 +1,5 @@
 👋 Hey!
-📜 Am Rio, a 15 year old fullstack web developer!
+📜 I'm Rio, a 15 year old fullstack web developer!
 
 Currently I know the following frameworks:
 - NodeJS
