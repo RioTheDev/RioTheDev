@@ -21,7 +21,8 @@ And I know these languages(Ranked by how well i know them):
 - C#
 
 Also here are my stats!
-![](https://komarev.com/ghpvc/?username=riothedev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=riothedev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)
 
