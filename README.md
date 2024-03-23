@@ -9,6 +9,7 @@ Currently I know the following frameworks:
 - TalwindCSS
 - Discord.js
 - NestJS
+- Svelte
 
 And I know these languages(Ranked by how well i know them):
 - Javascript
@@ -19,12 +20,8 @@ And I know these languages(Ranked by how well i know them):
 - Python
 - Lua
 - C#
-
-Also here are my stats!
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=riothedev)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioTheDev)
 
 And here are my top used languages!
 
