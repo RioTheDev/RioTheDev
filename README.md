@@ -2,12 +2,11 @@
 📜 I'm Rio, a 16 year old fullstack web developer!
 
 Currently I know the following frameworks:
-- NodeJS
 - Express
 - React
 - NextJS
-- TalwindCSS
-- Discord.js
+- TailwindCSS
+- DiscordJS
 - NestJS
 - Svelte
 
@@ -16,8 +15,8 @@ And I know these languages(Ranked by how well i know them):
 - Typescript
 - HTML
 - CSS
-- Java
 - Python
+- Java
 - Lua
 - C#
   
