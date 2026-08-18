@@ -1,27 +1,7 @@
 👋 Hey!
 📜 I'm Rio, an 18 year old fullstack web developer!
 
-Currently I know the following frameworks:
-- Express
-- React
-- NextJS
-- TailwindCSS
-- DiscordJS
-- NestJS
-- Svelte
+I love working on software and hardware engineering projects alike, with my main goal being the creation of high quality products, while improving my skills.
 
-And I know these languages(Ranked by how well i know them):
-- Javascript
-- Typescript
-- HTML
-- CSS
-- Python
-- Java
-- Lua
-- C#
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=riothedev)
 
-And here are my top used languages!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioTheDev)
